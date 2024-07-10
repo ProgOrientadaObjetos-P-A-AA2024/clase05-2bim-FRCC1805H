@@ -1,4 +1,4 @@
-/*
+ /*
  * I — Interface segregation principle (Principio de segregación de interfaces)
  */
 package paquete08i;
